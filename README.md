@@ -1,4 +1,4 @@
-# Glider Flight Data Analysis
+# Master Thesis : Glider Flight Data Analysis
 
 ## Description
 The aim of the project is to detect, analyse, classify and visualize thermal lift regions from the previous
